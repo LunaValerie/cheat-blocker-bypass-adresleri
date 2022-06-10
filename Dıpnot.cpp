@@ -1,0 +1,1 @@
+bu sadece 4 ünden birinin p olması ile çalısır 
